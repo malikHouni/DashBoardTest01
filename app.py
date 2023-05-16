@@ -1,5 +1,5 @@
 import pandas as pd  # pip install pandas openpyxl
-
+import plotly.express as px
 import streamlit as st  # pip install streamlit
 
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
